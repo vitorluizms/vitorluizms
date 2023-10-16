@@ -2,8 +2,6 @@
 
 ##  Olá! Eu sou Vitor Luiz
 
-- 👯 Atualmente estudo TypeScript
-- 🔭 Estou aberto para oportunidades em Desenvolvimento Front-End
 - 😊 Pronouns: Ele/Dele
 
 
