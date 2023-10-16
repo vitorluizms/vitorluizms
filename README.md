@@ -37,7 +37,6 @@
   <img align="center" alt="Vitor-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Vitor-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img align="center" alt="Vitor-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Vitor-Node" height="40" src="https://img.shields.io/badge/-Create+React+App-0D1117?style=for-the-badge&logo=Create+React+App&labelColor=0D1117&textColor=0D1117" />
   <img align="center" alt="Vitor-Node" height="40" src="https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=Vite&labelColor=0D1117&textColor=0D1117" />
 </div>
 
