@@ -2,8 +2,6 @@
 
 ##  Olá! Eu sou Vitor Luiz
 
-- 😊 Pronouns: Ele/Dele
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorluizms&bg_color=000000&color=2346d1&line=1d2ad7&point=266b82&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
