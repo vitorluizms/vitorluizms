@@ -1,49 +1,56 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=073ebd&height=120&section=header"/>
+## 👋 Introduction
+![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-lightgrey)
 
-##  Olá! Eu sou Vitor Luiz
+Hi, guys! I'm Vitor Luiz, I'm a Javascript/Typescript Fullstack Web Developer from Brazil!
 
+In my journey until here, i were an academic in energy engineering, there i had my first contact with programming, and it was like love at first sight!
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorluizms&bg_color=000000&color=2346d1&line=1d2ad7&point=266b82&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorluizms&show_icons=true&count_private=true&hide_border=true&title_color=073ebd&icon_color=white&text_color=c9d1d9&bg_color=0d1117" alt="Vitor luiz github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorluizms&layout=compact&hide_border=true&title_color=073ebd&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center"> 
-<a href = "mailto:vitor.luiz.eer@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vitor-luiz-23790328a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+I'm current learning Docker, and i'm interested in learning Angular.
 
 ## Front-end skills:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vitor-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Vitor-React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vitor-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Vitor-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img alt="Vitor-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Vitor-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="Vitor-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Vitor-Styled-Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img alt="Vitor-Axios" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"/>
+  <img alt="Vitor-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
 </div>
 
 ## Back-end skills:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Vitor-Express" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="Vitor-MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="Vitor-PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<div style="display: inline_block"> <br>
+ 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Vitor-Node" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="Vitor-Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="Vitor-Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img alt="Vitor-MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Vitor-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Vitor-Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
 </div>
 
-## Technologies:
+## Technologies & Tools:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="Vitor-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Vitor-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="Vitor-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Vitor-Node" height="40" src="https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=Vite&labelColor=0D1117&textColor=0D1117" />
+  <img alt="Vitor-Node" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="Vitor-Node" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Vitor-Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img alt="Vitor-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Vitor-Node" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Vitor-Node" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="Vitor-Node" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 </div>
 
-## Studying at the moment
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div>
+## Contact
+<a href = "mailto:vitor.luiz.eer@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vitorluizmartins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=073ebd&height=120&section=footer"/>
+## Statistics
+<br>
+
+<details>
+<summary>GitHub Stats</summary>
+<img width="350px" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorluizms&show_icons=true&count_private=true&hide_border=true&title_color=073ebd&icon_color=white&text_color=c9d1d9&bg_color=0d1117" alt="Vitor luiz github stats" /> 
+<img width="265px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorluizms&layout=compact&hide_border=true&title_color=073ebd&text_color=c9d1d9&bg_color=0d1117" />
+</details>
+
