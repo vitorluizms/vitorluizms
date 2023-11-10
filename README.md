@@ -46,8 +46,6 @@ I'm current learning Docker, and i'm interested in learning Angular.
 <a href="https://www.linkedin.com/in/vitorluizmartins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Statistics
-<br>
-
 <details>
 <summary>GitHub Stats</summary>
 <img width="350px" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorluizms&show_icons=true&count_private=true&hide_border=true&title_color=073ebd&icon_color=white&text_color=c9d1d9&bg_color=0d1117" alt="Vitor luiz github stats" /> 
