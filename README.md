@@ -3,7 +3,7 @@
 
 Hi, guys! I'm Vitor Luiz, I'm a Javascript/Typescript Fullstack Web Developer from Brazil!
 
-In my journey until here, i were an academic in energy engineering, there i had my first contact with programming, and it was like love at first sight!
+In my journey until here, i were an academic in energy engineering, there, i had my first contact with programming using Python!
 
 I'm current learning Docker, and i'm interested in learning Angular.
 
@@ -21,6 +21,7 @@ I'm current learning Docker, and i'm interested in learning Angular.
 
 ## Back-end skills:
 <div style="display: inline_block"> <br>
+  <img alt="Vitor-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Vitor-Node" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="Vitor-Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
